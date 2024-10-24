@@ -1,3 +1,3 @@
 function showAlert() {
-    alert("Get ready for the Virtual Maze event! We're excited to have you join.");
+    alert("find the password(four parts) hidden in the website");
 }
