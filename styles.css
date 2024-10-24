@@ -23,7 +23,7 @@ body {
     text-align: center;
     color: #fff;
 }
-
+/* Hero Section */
 .hero-section .overlay {
     position: absolute;
     top: 0;
@@ -32,12 +32,12 @@ body {
     height: 100%;
     background-color: rgba(0, 0, 0, 0.6);
 }
-
+/* Hero Section */
 .hero-section .content {
     position: relative;
     z-index: 2;
 }
-
+/* Hero Section */
 .hero-section h1 {
     font-size: 3rem;
     margin-bottom: 20px;
@@ -69,7 +69,7 @@ body {
     padding: 40px 0;
     background-color: #fff;
 }
-
+/* Event Info Section */
 .event-info .container {
     display: flex;
     flex-wrap: wrap;
@@ -78,35 +78,35 @@ body {
     margin: 0 auto;
     padding: 20px;
 }
-
+/* Event Info Section */
 .event-details {
     flex-basis: 60%;
 }
-
+/* Event Info Section */
 .event-details h2 {
     font-size: 2rem;
     margin-bottom: 20px;
 }
-
+/* Event Info Section */
 .event-details p {
     font-size: 1.1rem;
     margin-bottom: 15px;
 }
-
+/* Event Info Section */
 .event-details ul {
     list-style-type: none;
     margin-bottom: 20px;
 }
-
+/* Event Info SeP4:{=}on */
 .event-details ul li {
     font-size: 1rem;
     margin-bottom: 10px;
 }
-
+/* Event Info Section */
 .event-image-container {
     flex-basis: 35%;
 }
-
+/* Event Info Section */
 .event-image {
     width: 100%;
     border-radius: 10px;
@@ -118,31 +118,31 @@ body {
     padding: 40px 0;
     background-color: #f7f7f7;
 }
-
+/* Schedule Section */
 .event-schedule .container {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
 }
-
+/* Schedule Section */
 .event-schedule h2 {
     font-size: 2rem;
     margin-bottom: 20px;
 }
-
+/* Schedule Section */
 .event-schedule table {
     width: 100%;
     border-collapse: collapse;
     margin-bottom: 30px;
 }
-
+/* Schedule Section */
 .event-schedule table th, 
 .event-schedule table td {
     padding: 12px 20px;
     border: 1px solid #ddd;
     text-align: left;
 }
-
+/* Schedule Section */
 .event-schedule table th {
     background-color: #4CAF50;
     color: white;
@@ -155,7 +155,7 @@ footer {
     padding: 20px 0;
     text-align: center;
 }
-
+/* Footer */
 footer p {
     margin: 0;
 }
